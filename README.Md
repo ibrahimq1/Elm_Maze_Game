@@ -12,4 +12,4 @@ You can also see my online resume here : <a href = "http://ugweb.cas.mcmaster.ca
 <h1> Credits </h1>
 
 Images: https://media.giphy.com,
-React to Rectangle Idea : https://github.com/deleeuwj1/CS1XA3/tree/master/Assign2/
+
